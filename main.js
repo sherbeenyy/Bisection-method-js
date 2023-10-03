@@ -4,7 +4,6 @@ const math = require("mathjs");
 let l = 0;
 let r = 2;
 let mid = (l + r) / 2;
-console.log("mid = ", mid);
 
 // pre-specified error
 let epsilon_S = 0.001;
