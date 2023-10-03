@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "mathjs": "^11.11.1"
+  },
+  "name": "bisection-method",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "nodemon main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
